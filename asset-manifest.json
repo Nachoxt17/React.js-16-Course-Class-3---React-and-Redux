@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React.js-16-Course-Class-3---React-and-Redux/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React.js-16-Course-Class-3---React-and-Redux/static/js/main.5dd39fc0.chunk.js",
+    "main.js.map": "/React.js-16-Course-Class-3---React-and-Redux/static/js/main.5dd39fc0.chunk.js.map",
+    "runtime-main.js": "/React.js-16-Course-Class-3---React-and-Redux/static/js/runtime-main.280fe412.js",
+    "runtime-main.js.map": "/React.js-16-Course-Class-3---React-and-Redux/static/js/runtime-main.280fe412.js.map",
+    "static/js/2.a8b31db8.chunk.js": "/React.js-16-Course-Class-3---React-and-Redux/static/js/2.a8b31db8.chunk.js",
+    "static/js/2.a8b31db8.chunk.js.map": "/React.js-16-Course-Class-3---React-and-Redux/static/js/2.a8b31db8.chunk.js.map",
+    "index.html": "/React.js-16-Course-Class-3---React-and-Redux/index.html",
+    "precache-manifest.1271ba055da84e83f0ca75651b0123ee.js": "/React.js-16-Course-Class-3---React-and-Redux/precache-manifest.1271ba055da84e83f0ca75651b0123ee.js",
+    "service-worker.js": "/React.js-16-Course-Class-3---React-and-Redux/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React.js-16-Course-Class-3---React-and-Redux/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.a8b31db8.chunk.js.LICENSE.txt": "/React.js-16-Course-Class-3---React-and-Redux/static/js/2.a8b31db8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.280fe412.js",
+    "static/js/2.a8b31db8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.5dd39fc0.chunk.js"
+  ]
+}
